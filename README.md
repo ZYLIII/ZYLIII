@@ -25,8 +25,7 @@ I chose RMIT because it is located in the city center, which is very convenient 
 Ideal Job 
 https://www.seek.com.au/job/58064326?type=standout#sol=a21006d66983a55f7bb87a25dd886011ef2a73e
 
-![image](https://user-images.githubusercontent.com/110008240/184796930-9b5e8807-3c97-466b-8e37-7b036078be4e.png)
-
+![image](https://user-images.githubusercontent.com/110008240/184797165-4f8f2871-6cd9-40a3-94c2-39898f524b61.png)
 
 Implementing, managing, and administering digital security solutions and enhancing security measures to meet the shifting needs of the organization are the responsibilities of cybersecurity engineers. Information is gathered from a number of sources by cybersecurity experts in order to recognize, evaluate, and report security occurrences and use both preventative and corrective methods to safeguard networks, systems, and information from harm. I can be a part of an energetic team that protect all internal and online system operations makes this position appealing to me.
 
@@ -63,6 +62,7 @@ My idea is similar to the effect of the existing AC+AP networking solution, but 
 
 Install the Windows system on an old computer (at least 4 GB of memory and 128 GB of solid-disk space). Virtualizing an OpenWRT as a soft router through Hyper-V, 2 cores and 1G memory is enough. The host and the virtual machine are connected through a virtual network card, and the host accesses the Internet through the virtual machine. The on-board network card and PCI-E network card of the host are directly connected to OpenWRT, and then one network port is connected to the optical cat bridge, and the Internet is dialed up through OpenWRT, and the other network port is connected to the wireless router as a wireless AP. The advantage of Hyper-V is convenience, which is much more convenient than docker or VMWare Workstation. This host does not need to be connected to the monitor nor to the keyboard because it is rarely a problem. As an AP mobile phone, you need a two-in-one network cable charging adapter (as shown in Figure), and then you need to write software that can call the network cable of the interface and open the hotspot to realize data exchange.
 
-![image](https://user-images.githubusercontent.com/110008240/184796931-269d7bf5-bc23-4d1e-82e3-44bea1e9bed1.png)
+![image](https://user-images.githubusercontent.com/110008240/184797202-b0d6dd25-be58-4a47-ab47-5662c57adf8e.png)
+
 
 If the project is successful, people who like to toss and have specific professional knowledge can use my solution to DIY their own whole-house AC+AP networking. However, due to the limitation of mobile phone power, the WiFi coverage range may not be as far as professional AP devices, or it may not be stable and need further improvement. The heating of the mobile phone is also a problem, but it can be solved by installing a fan that cools the mobile phone. In addition, the power consumption of this solution will be higher than the usual AC+AP solution, and it will cost more in electricity bills. This development allows the old mobile phones and old computers at home to be used, which is more environmentally friendly.
